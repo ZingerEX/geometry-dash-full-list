@@ -1,6 +1,6 @@
 <?php
-	$servername = "localhost";
-	$dbUsername = "root";
+	$servername = "server";
+	$dbUsername = "user";
 	$dbPassword = "";
 	$dbName = "gdlevels";
 	
